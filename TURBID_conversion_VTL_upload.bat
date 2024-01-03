@@ -9,5 +9,5 @@ echo %Date%:%Time% - Converting new NetCDF files (A) in F:\TURBID_modelData_Conv
 REM ============== Starting Python script ==============
 %PYTHONBIN% F:\Scripted_DB_and_VTL_Update_ArcGIS.py
 
-@REM C:\Users\steinmetzt\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\python.exe C:\Users\steinmetzt\Topnet_VTL_Update_Model3.py
+
 echo %Date%:%Time% - Done Converting new NetCDF files  in F:\Topnet_modelData_Convert... >>%LOG_LOCATION%
